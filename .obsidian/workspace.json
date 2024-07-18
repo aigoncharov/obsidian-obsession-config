@@ -155,7 +155,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "periodic-notes:Open today": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
@@ -164,17 +163,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "omnisearch:Omnisearch": true,
-      "copilot:Copilot Chat": true
+      "periodic-notes:Open today": false
     }
   },
   "active": "6d5aa66533be4c09",
   "lastOpenFiles": [
-    "README.md",
     "files/README 2024-07-18 12.02.55.excalidraw.md",
+    "me/diary/day/2024-07-18.md",
+    "README.md",
     "files/README 2024-07-18 12.01.55.excalidraw.md",
     "files/Drawing 2024-07-18 11.58.57.excalidraw.md",
     "files/Drawing 2024-07-18 11.56.36.excalidraw.md",
-    "me/diary/day/2024-07-18.md",
     "world/Taylor series.md",
     "todo/Current.md",
     "templates/Diary - day.md",
