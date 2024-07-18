@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "36b8311187775781",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e3b81b6af7a2dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5aa66533be4c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "me/diary/day/2024-07-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8323bc3b0da29e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "9831366e2e58674d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9cf48f6c1782b6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26689491fd17b052",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38fe70ab83084aaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06b50649ddc1a574",
+    "type": "split",
+    "children": [
+      {
+        "id": "6043859a6b6b20a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "768c4c11c6ad29b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "me/diary/day/2024-07-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb13e0a29657f5b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "me/diary/day/2024-07-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9829f816feb87ca7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a80377f31410756",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "me/diary/day/2024-07-18.md"
+              }
+            }
+          },
+          {
+            "id": "ac0b4a758c6cb53a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "84be8d076c5372d3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "periodic-notes:Open today": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "omnisearch:Omnisearch": true,
+      "copilot:Copilot Chat": true
+    }
+  },
+  "active": "6d5aa66533be4c09",
+  "lastOpenFiles": [
+    "README.md",
+    "files/README 2024-07-18 12.02.55.excalidraw.md",
+    "files/README 2024-07-18 12.01.55.excalidraw.md",
+    "files/Drawing 2024-07-18 11.58.57.excalidraw.md",
+    "files/Drawing 2024-07-18 11.56.36.excalidraw.md",
+    "me/diary/day/2024-07-18.md",
+    "world/Taylor series.md",
+    "todo/Current.md",
+    "templates/Diary - day.md",
+    "files/Drawing 2024-07-18 11.27.01.excalidraw.md",
+    "files/taylor_series_viz.excalidraw.md",
+    "me/diary/month",
+    "me/diary/week",
+    "me/diary/day",
+    "me/diary",
+    "templates",
+    "todo/Backlog.md",
+    "todo/Archive.md",
+    "todo",
+    "world",
+    "projects",
+    "me",
+    "files"
+  ]
+}

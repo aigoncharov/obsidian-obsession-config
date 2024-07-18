@@ -1,0 +1,2 @@
+- [ ] Learn Taylor series 📅 2024-07-18 
+- [x] Procrastinate everything else 📅 2024-07-18 ✅ 2024-07-18
